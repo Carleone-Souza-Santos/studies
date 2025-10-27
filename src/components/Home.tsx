@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import Imag from "../assets/dev.png"; 
+import Imag from "../../public/assets/dev.png";
 
 export default function Home() {
   return (
