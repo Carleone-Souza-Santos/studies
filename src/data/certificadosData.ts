@@ -174,7 +174,7 @@ export const projetos = [
     instituicao: "Projeto Grupo",
     linguagem: "typescript + tailwindcss + vite",
     ano: 2025,
-    img: "/assets/app.png",
+    img: "./assets/app.png",
     link: "https://procedure-pro-check-main.vercel.app/",
   },
 
