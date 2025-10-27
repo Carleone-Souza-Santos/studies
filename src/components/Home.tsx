@@ -31,7 +31,7 @@ export default function Home() {
         className="text-center md:text-left font-mono"
       >
         <h1 className="text-4xl md:text-5xl font-extrabold text-indigo-200 mb-4">
-          Olá, eu sou Carleone S.
+          Olá, eu sou Carlleon S.
         </h1>
 
         <h2 className="text-2xl md:text-3xl font-bold text-indigo-400 mb-4 animate-pulse">
