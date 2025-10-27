@@ -1,4 +1,9 @@
-
+import img_app from "/assets/app.jpg"
+import img_crud from "/assets/crud.jpg"
+import img_grafic from "/assets/grafic.jpg"
+import img_wallet from "/assets/walet.jpg"
+import img_web from "/assets/web.jpg"
+import commerv from "/assets/&commerv.png"
 
 export const certificados = [
   {
@@ -129,7 +134,7 @@ export const projetos = [
     instituicao: "Dev club",
     linguagem: "html, css",
     ano: 2023,
-    img: "/assets/web.jpg",
+    img: img_web,
     link: "https://carleone-souza-santos.github.io/Coffee-Shop/#",
   },
 
@@ -167,7 +172,7 @@ export const projetos = [
     instituicao: "Financ",
     linguagem: "html, css ,javascript",
     ano: 2024,
-    img: "/assets/grafic.jpg",
+    img: img_grafic,
     link: "https://s-gestor-ciys.vercel.app/",
   },
   {
@@ -176,7 +181,7 @@ export const projetos = [
     instituicao: "Projeto Grupo",
     linguagem: "typescript + tailwindcss + vite",
     ano: 2025,
-    img: "/assets/app.jpg",
+    img: img_app,
     link: "https://procedure-pro-check-main.vercel.app/",
   },
 
@@ -186,7 +191,7 @@ export const projetos = [
     instituicao: "Projeto Grupo",
     linguagem: "typescript + tailwindcss + vite",
     ano: 2025,
-    img: "/assets/walet.jpg",
+    img: img_wallet,
     link: "https://appwalet.vercel.app/",
   },
   {
@@ -195,7 +200,7 @@ export const projetos = [
     instituicao: "Hora de Codar",
     linguagem: "typescript + vite + bootstrap",
     ano: 2025,
-    img: "/assets/crud.jpg",
+    img: img_crud,
     link: "https://crudtypescript.vercel.app/",
   },
 
@@ -205,7 +210,7 @@ export const projetos = [
     instituicao: "Projeto Grupo",
     linguagem: "typescript + tailwindcss + vite",
     ano: 2025,
-    img: "/assets/",
-    link: "https://appwalet.vercel.app/",
+    img: commerv,
+    link: "https://shop-carl.vercel.app/",
   },
 ];
