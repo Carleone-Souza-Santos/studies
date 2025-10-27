@@ -198,4 +198,14 @@ export const projetos = [
     img: "/assets/crud.jpg",
     link: "https://crudtypescript.vercel.app/",
   },
+
+  {
+    id: 10,
+    titulo: "&commerc",
+    instituicao: "Projeto Grupo",
+    linguagem: "typescript + tailwindcss + vite",
+    ano: 2025,
+    img: "/assets/",
+    link: "https://appwalet.vercel.app/",
+  },
 ];
