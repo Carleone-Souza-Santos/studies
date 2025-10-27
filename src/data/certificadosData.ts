@@ -129,7 +129,7 @@ export const projetos = [
     instituicao: "Dev club",
     linguagem: "html, css",
     ano: 2023,
-    img: "/assets/web.png",
+    img: "/assets/web.jpg",
     link: "https://carleone-souza-santos.github.io/Coffee-Shop/#",
   },
 
@@ -167,7 +167,7 @@ export const projetos = [
     instituicao: "Financ",
     linguagem: "html, css ,javascript",
     ano: 2024,
-    img: "/assets/grafic.png",
+    img: "/assets/grafic.jpg",
     link: "https://s-gestor-ciys.vercel.app/",
   },
   {
@@ -176,7 +176,7 @@ export const projetos = [
     instituicao: "Projeto Grupo",
     linguagem: "typescript + tailwindcss + vite",
     ano: 2025,
-    img: "/assets/app.png",
+    img: "/assets/app.jpg",
     link: "https://procedure-pro-check-main.vercel.app/",
   },
 
@@ -186,7 +186,7 @@ export const projetos = [
     instituicao: "Projeto Grupo",
     linguagem: "typescript + tailwindcss + vite",
     ano: 2025,
-    img: "/assets/walet.png",
+    img: "/assets/walet.jpg",
     link: "https://appwalet.vercel.app/",
   },
   {
@@ -195,7 +195,7 @@ export const projetos = [
     instituicao: "Hora de Codar",
     linguagem: "typescript + vite + bootstrap",
     ano: 2025,
-    img: "/assets/crud.png",
+    img: "/assets/crud.jpg",
     link: "https://crudtypescript.vercel.app/",
   },
 ];
